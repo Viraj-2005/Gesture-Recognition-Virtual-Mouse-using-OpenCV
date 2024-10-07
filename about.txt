@@ -1,0 +1,9 @@
+**********Gesture Recognition Virtual Mouse using Opencv**********
+
+The "Gesture Recognition Virtual Mouse" project aims to create a seamless
+interaction between users and their devices through hand gestures. By leveraging
+computer vision and machine learning techniques, this project transforms hand
+movements into mouse actions, allowing users to control their computer without   
+physical contact with a mouse. This can enhance accessibility and offer a novel way
+of interacting with technology. 
+
